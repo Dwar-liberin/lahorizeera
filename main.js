@@ -18,7 +18,7 @@
           {
               appName: "DwAR",
               customerId: "4",
-              campaignName: "Lahori Zeera",
+              campaignName: "Lahori_Zeera",
               serverUrl: "https://staging.lttl.in/event"
           }
        );
@@ -152,77 +152,77 @@
 
   
     
-      const image_4f4e1527_d0b348f0_iconGeometry = new THREE.PlaneGeometry(1, 1);
-   const image_4f4e1527_d0b348f0_texture = await loadTexture("assets/image 242 (1).png");
-  const image_4f4e1527_d0b348f0_image = new THREE.MeshBasicMaterial({
-      map: image_4f4e1527_d0b348f0_texture,
+      const image_4f4e1527_d0bc2b0b_iconGeometry = new THREE.PlaneGeometry(1, 1);
+   const image_4f4e1527_d0bc2b0b_texture = await loadTexture("assets/image 242 (1).png");
+  const image_4f4e1527_d0bc2b0b_image = new THREE.MeshBasicMaterial({
+      map: image_4f4e1527_d0bc2b0b_texture,
     });
-    const image_4f4e1527_d0b348f0 = new THREE.Mesh(image_4f4e1527_d0b348f0_iconGeometry, image_4f4e1527_d0b348f0_image);
-    image_4f4e1527_d0b348f0.scale.set(0.4, 0.4, 1);
-    image_4f4e1527_d0b348f0.position.set(-0.3, -1.86, 0);
-    image_4f4e1527_d0b348f0.rotation.set(-0.001, 0, 0);
-    image_4f4e1527_d0b348f0.userData.clickable = true
+    const image_4f4e1527_d0bc2b0b = new THREE.Mesh(image_4f4e1527_d0bc2b0b_iconGeometry, image_4f4e1527_d0bc2b0b_image);
+    image_4f4e1527_d0bc2b0b.scale.set(0.4, 0.4, 1);
+    image_4f4e1527_d0bc2b0b.position.set(-0.3, -1.86, 0);
+    image_4f4e1527_d0bc2b0b.rotation.set(-0.001, 0, 0);
+    image_4f4e1527_d0bc2b0b.userData.clickable = true
     
-    image_4f4e1527_d0b348f0.userData.eventName ="Blinkit"
-const target_imageundefi5af0c_iconGeometry = new THREE.PlaneGeometry(1, 3.062271062271062);
-   const target_imageundefi5af0c_texture = await loadTexture("assets/shared image (1).jpg");
-  const target_imageundefi5af0c_image = new THREE.MeshBasicMaterial({
-      map: target_imageundefi5af0c_texture,
+    image_4f4e1527_d0bc2b0b.userData.eventName ="Blinkit"
+const target_imageundefia38b7_iconGeometry = new THREE.PlaneGeometry(1, 3.062271062271062);
+   const target_imageundefia38b7_texture = await loadTexture("assets/shared image (1).jpg");
+  const target_imageundefia38b7_image = new THREE.MeshBasicMaterial({
+      map: target_imageundefia38b7_texture,
     });
-    const target_imageundefi5af0c = new THREE.Mesh(target_imageundefi5af0c_iconGeometry, target_imageundefi5af0c_image);
-    target_imageundefi5af0c.scale.set(1, 1, 1);
-    target_imageundefi5af0c.position.set(0.01, -0.01, 0.01);
-    target_imageundefi5af0c.rotation.set(-0.001, 0, 0);
+    const target_imageundefia38b7 = new THREE.Mesh(target_imageundefia38b7_iconGeometry, target_imageundefia38b7_image);
+    target_imageundefia38b7.scale.set(1, 1, 1);
+    target_imageundefia38b7.position.set(0.01, -0.01, 0.01);
+    target_imageundefia38b7.rotation.set(-0.001, 0, 0);
     
     
     
-const image_646c4dfe_40609822_iconGeometry = new THREE.PlaneGeometry(1, 1);
-   const image_646c4dfe_40609822_texture = await loadTexture("assets/image 244.png");
-  const image_646c4dfe_40609822_image = new THREE.MeshBasicMaterial({
-      map: image_646c4dfe_40609822_texture,
+const image_646c4dfe_4061cfde_iconGeometry = new THREE.PlaneGeometry(1, 1);
+   const image_646c4dfe_4061cfde_texture = await loadTexture("assets/image 244.png");
+  const image_646c4dfe_4061cfde_image = new THREE.MeshBasicMaterial({
+      map: image_646c4dfe_4061cfde_texture,
     });
-    const image_646c4dfe_40609822 = new THREE.Mesh(image_646c4dfe_40609822_iconGeometry, image_646c4dfe_40609822_image);
-    image_646c4dfe_40609822.scale.set(0.4, 0.4, 1);
-    image_646c4dfe_40609822.position.set(0.3, -1.86, 0);
-    image_646c4dfe_40609822.rotation.set(-0.001, 0, 0);
-    image_646c4dfe_40609822.userData.clickable = true
+    const image_646c4dfe_4061cfde = new THREE.Mesh(image_646c4dfe_4061cfde_iconGeometry, image_646c4dfe_4061cfde_image);
+    image_646c4dfe_4061cfde.scale.set(0.4, 0.4, 1);
+    image_646c4dfe_4061cfde.position.set(0.3, -1.86, 0);
+    image_646c4dfe_4061cfde.rotation.set(-0.001, 0, 0);
+    image_646c4dfe_4061cfde.userData.clickable = true
     
-    image_646c4dfe_40609822.userData.eventName ="Amazon"
+    image_646c4dfe_4061cfde.userData.eventName ="Amazon"
 
-    const video_asset_fb3a68214b7_planeGeometry = new THREE.PlaneGeometry(1, 2.907051282051282);
+    const video_asset_fb3a6801a45_planeGeometry = new THREE.PlaneGeometry(1, 2.907051282051282);
 
-    const video_asset_fb3a68214b7_Item0Video = await loadVideo("assets/zeera video (6.5x18.9).mp4");
+    const video_asset_fb3a6801a45_Item0Video = await loadVideo("assets/zeera video (6.5x18.9).mp4");
 
-    const video_asset_fb3a68214b7_Item0VideoTexture = new THREE.VideoTexture(
-      video_asset_fb3a68214b7_Item0Video
+    const video_asset_fb3a6801a45_Item0VideoTexture = new THREE.VideoTexture(
+      video_asset_fb3a6801a45_Item0Video
     );
 
-    let video_asset_fb3a68214b7_Item0VideoMaterial
+    let video_asset_fb3a6801a45_Item0VideoMaterial
 
-      video_asset_fb3a68214b7_Item0VideoMaterial = new THREE.MeshBasicMaterial({
-          map: video_asset_fb3a68214b7_Item0VideoTexture,
+      video_asset_fb3a6801a45_Item0VideoMaterial = new THREE.MeshBasicMaterial({
+          map: video_asset_fb3a6801a45_Item0VideoTexture,
         })
     
-     const video_asset_fb3a68214b7 = new THREE.Mesh(
-      video_asset_fb3a68214b7_planeGeometry,
-      video_asset_fb3a68214b7_Item0VideoMaterial
+     const video_asset_fb3a6801a45 = new THREE.Mesh(
+      video_asset_fb3a6801a45_planeGeometry,
+      video_asset_fb3a6801a45_Item0VideoMaterial
     );
 
-  video_asset_fb3a68214b7.position.set(0, -0.042, 0);
+  video_asset_fb3a6801a45.position.set(0, -0.042, 0);
 
 
 
   if (isIOS) {
-    video_asset_fb3a68214b7_Item0Video.muted=isIOS
+    video_asset_fb3a6801a45_Item0Video.muted=isIOS
     muteIconMesh = await loadUnmuteLogo();
     anchor.group.add(muteIconMesh);
   }
 
-  video_asset_fb3a68214b7_Item0Video.loop=true;
+  video_asset_fb3a6801a45_Item0Video.loop=true;
   
-  video_asset_fb3a68214b7.scale.set(1.1, 1.07, 1.1);
+  video_asset_fb3a6801a45.scale.set(1.1, 1.07, 1.1);
 
-    video_asset_fb3a68214b7.rotation.set(-0.005, 0, 0);
+    video_asset_fb3a6801a45.rotation.set(-0.006, 0, 0);
 
     
   
@@ -258,7 +258,7 @@ const image_646c4dfe_40609822_iconGeometry = new THREE.PlaneGeometry(1, 1);
 
         if(isIOS){ 
           if (o.userData.clickable && o === muteIconMesh) {
-            video_asset_fb3a68214b7_Item0Video.muted=false
+            video_asset_fb3a6801a45_Item0Video.muted=false
     
             anchor.group.remove(muteIconMesh);
             return true;
@@ -271,14 +271,14 @@ const image_646c4dfe_40609822_iconGeometry = new THREE.PlaneGeometry(1, 1);
       if (o.userData.clickable) window.showLoadingScreen();
 
       
-      if (o.userData.clickable && o === image_4f4e1527_d0b348f0) {
+      if (o.userData.clickable && o === image_4f4e1527_d0bc2b0b) {
         setTimeout(()=>{
           window.location.href = "https://blinkit.com/s/?q=lahori%20zeera"
         },100)
         }
       
 
-      if (o.userData.clickable && o === image_646c4dfe_40609822) {
+      if (o.userData.clickable && o === image_646c4dfe_4061cfde) {
         setTimeout(()=>{
           window.location.href = "https://www.amazon.in/s?k=lahori+jeera&crid=3G8FQECL7NK6J&sprefix=lahori+jeer%2Caps%2C270&ref=nb_sb_noss_2"
         },100)
@@ -289,10 +289,10 @@ const image_646c4dfe_40609822_iconGeometry = new THREE.PlaneGeometry(1, 1);
     })
     
       
-    anchor.group.add(image_4f4e1527_d0b348f0)
+    anchor.group.add(image_4f4e1527_d0bc2b0b)
 
-anchor.group.add(image_646c4dfe_40609822)
-anchor.group.add(video_asset_fb3a68214b7)
+anchor.group.add(image_646c4dfe_4061cfde)
+anchor.group.add(video_asset_fb3a6801a45)
 
 
     anchor.onTargetFound = () => {
@@ -310,12 +310,12 @@ anchor.group.add(video_asset_fb3a68214b7)
 
 
      
-      video_asset_fb3a68214b7_Item0Video.play();
+      video_asset_fb3a6801a45_Item0Video.play();
     };
 
 
     anchor.onTargetLost = () => {
-       video_asset_fb3a68214b7_Item0Video.pause();
+       video_asset_fb3a6801a45_Item0Video.pause();
 
         
 
